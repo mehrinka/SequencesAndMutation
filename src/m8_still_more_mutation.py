@@ -138,6 +138,8 @@ def MUTATE_delete_negatives(numbers):
     #       then see the solutions posted on Piazza.
     #       See those solutions even if your approach passes the tests.
 
+    # Do this from END to BEGINNING!!!
+
 
 # ----------------------------------------------------------------------
 # If this module is running at the top level (as opposed to being
